@@ -157,8 +157,8 @@ function App() {
             </div>
           </div>
           <div className="meta">
-            <span>Python, JS/TS, Django, React</span>
-            <span>Français, Anglais, Arabe</span>
+            {/* <span>Python, JS/TS, Django, React</span>
+            <span>Français, Anglais, Arabe</span> */}
           </div>
         </div>
         <div>
